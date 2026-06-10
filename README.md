@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/edb6556a-5507-42f7-81e8-6707a387f121
+
+
+
 # E-Commerce Support Agent
 
 An AI-powered customer support dashboard where a Claude agent handles queries end-to-end using real tool calling.
